@@ -1,2 +1,2 @@
 # firstapp
-first app for practice
+first app for git practice
